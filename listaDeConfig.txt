@@ -1,0 +1,11 @@
+user.password=2182093@#rj
+user.email=rasec23rj@gmail.com
+user.name=julio
+user.password=2182093@#rj
+remote.origin..password=2182093@#rj
+remote.origin.password=2182093@#rj
+remote.user.password=2182093@#rj
+core.repositoryformatversion=0
+core.filemode=true
+core.bare=false
+core.logallrefupdates=true
